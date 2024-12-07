@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shotttik" alt="shotttik" /></a> </p>
 
-- 🔭 I’m currently working on **CRS**
+- 🔭 I’m currently working on **CBCR**
 
-- 🌱 I’m currently learning **ASP.NET Core 7.0**
+- 🌱 I’m currently learning **ASP.NET Core 9.0**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python || .C#**
 
 - 📫 How to reach me **shota.akhlouri@gmail.com**
 
