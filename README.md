@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shotttik" alt="shotttik" /></a> </p>
 
-- 🔭 I’m currently working on **CBCR**
+- 🔭 I’m currently working on **ReservationApp**
 
 - 🌱 I’m currently learning **ASP.NET Core 9.0**
 
@@ -20,6 +20,14 @@
 - 📫 How to reach me **shota.akhlouri@gmail.com**
 
 - ⚡ In my free time I Play **Chess**
+
+---
+
+### 🧩 Portfolio Projects
+
+- 🛎️ [ReservationApp](https://github.com/shotttik/ReservationApp): Backend project for a reservation system built using **.NET Core 8.0** and **Entity Framework Core**.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
